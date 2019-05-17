@@ -1,0 +1,5 @@
+model_checkpoint_path: "model-checkpoint-23040"
+all_model_checkpoint_paths: "model-checkpoint-1440"
+all_model_checkpoint_paths: "model-checkpoint-8640"
+all_model_checkpoint_paths: "model-checkpoint-15840"
+all_model_checkpoint_paths: "model-checkpoint-23040"
